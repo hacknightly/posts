@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Welcome to Jekyll!"
 date:   2022-06-14 15:15:25 -0600
 categories: jekyll update
